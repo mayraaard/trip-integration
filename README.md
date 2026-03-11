@@ -58,7 +58,6 @@ Key fields include:
 | des_lat / des_lon | Destination coordinates |
 | unloadingDate | Shipment unloading date |
 | tariffType | Shipment type |
-| transporter | Logistics provider |
 
 The main operational metric used in the analysis is:
 Stop = unique(tripNumber, destPostcode)
