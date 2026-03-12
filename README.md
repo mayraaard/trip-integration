@@ -241,6 +241,20 @@ Key question answered:
 
 Implements a **machine learning model** to estimate future truck availability.
 
+
+### ⚠️ Important Configuration
+
+To ensure the predictive model runs using the correct training setup, please adjust the sidebar controls **before running the analysis**.
+<img width="320" height="224" alt="image" src="https://github.com/user-attachments/assets/777a2434-d0d7-432d-8150-e6dd0fa5d374" />
+
+**Required Settings:**
+- **Date Range:** 1 May 2025 – 31 December 2025  (January-April 2025: system migration, data inconsistent)
+- **Tariff Type:** MB  
+
+These parameters align with the dataset selection and modelling assumptions used during development.  
+Using different date ranges or tariff types may lead to unreliable prediction outputs.
+
+
 Main components:
 
 - Predicted trucks per day
