@@ -1,4 +1,5 @@
 # Mitra10 × DHL Trip Integration Analysis (Case Study) Dashboard
+<img width="1904" height="893" alt="image" src="https://github.com/user-attachments/assets/699c46ef-c490-4877-846a-3106a9b3faf3" />
 
 An interactive data analytics and predictive modeling dashboard to evaluate **partner route integration opportunities within DHL’s existing logistics network**.
 
@@ -193,6 +194,10 @@ The dashboard is built using the following technologies:
 # Dashboard Structure
 
 ## Tab 1 — Network Opportunity
+<img width="1552" height="622" alt="image" src="https://github.com/user-attachments/assets/924cee3d-a497-49d4-b0be-c7b413a457c3" />
+<img width="1534" height="339" alt="image" src="https://github.com/user-attachments/assets/3817ced6-ea6d-4e97-a354-375b792a2bf7" />
+<img width="1531" height="623" alt="image" src="https://github.com/user-attachments/assets/0347e0e6-6110-4431-ae74-44bfc70a8116" />
+
 
 Evaluates **geographic compatibility between DHL routes and partner store locations**.
 
@@ -211,6 +216,8 @@ Key question answered:
 ---
 
 ## Tab 2 — Operational Route Availability
+<img width="1531" height="840" alt="image" src="https://github.com/user-attachments/assets/2798fd3a-7a07-4906-a022-ab5f06ff99e5" />
+<img width="1531" height="834" alt="image" src="https://github.com/user-attachments/assets/7bc544d0-8a8f-47a2-ac80-69ffe03972ca" />
 
 Analyzes **actual truck traffic near partner locations**.
 
