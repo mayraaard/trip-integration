@@ -234,6 +234,10 @@ Key question answered:
 ---
 
 ## Tab 3 — Predictive Truck Availability
+<img width="1536" height="698" alt="image" src="https://github.com/user-attachments/assets/ca201473-61aa-4980-a23c-4d6aa42df50c" />
+<img width="1546" height="485" alt="image" src="https://github.com/user-attachments/assets/9ee9bb5b-75a4-45e5-9ec9-6034da2c78d1" />
+<img width="1532" height="591" alt="image" src="https://github.com/user-attachments/assets/79267882-d693-4c3a-9972-9c471680fa5c" />
+<img width="1535" height="311" alt="image" src="https://github.com/user-attachments/assets/342d25e5-189e-499b-80cd-6fa309729ead" />
 
 Implements a **machine learning model** to estimate future truck availability.
 
